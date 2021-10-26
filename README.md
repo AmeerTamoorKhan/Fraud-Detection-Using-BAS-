@@ -34,8 +34,8 @@ portfolio selection problem under cardinality constraints. Its single-particle n
 robust and timely efficient, which allows it to make fraud perdition in real-time.
 
 ## References
-[Jiang, X., and S. Li. "BAS: beetle antennae search algorithm for optimization problems (2017)." arXiv preprint arXiv:1710.10724.](https://arxiv.org/abs/1710.10724)
-[Khan, A. T., Cao, X., Li, Z., & Li, S. (2021). Enhanced Beetle Antennae Search with Zeroing Neural Network for online solution of constrained optimization. Neurocomputing, 447, 294-306.](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003957)
-[Khan, A. T., Li, S., & Cao, X. (2021). Control framework for cooperative robots in smart home using bio-inspired neural network. Measurement, 167, 108253.](https://www.sciencedirect.com/science/article/pii/S0263224120307922?casa_token=NeHLkrfKm7EAAAAA:972ZRPiwj10KPGovRSwzQKYqkLz9j_LyzNaqW7WRGdh9MIApiea3PkaqkPqXkU2ZbppUQYAJvw)
-[Khan, A. T., & Li, S. (2021). Human guided cooperative robotic agents in smart home using beetle antennae search. Science China Information Sciences.](https://www.sciengine.com/doi/10.1007/s11432-020-3073-5)
+1. [Jiang, X., and S. Li. "BAS: beetle antennae search algorithm for optimization problems (2017)." arXiv preprint arXiv:1710.10724.](https://arxiv.org/abs/1710.10724)
+2. [Khan, A. T., Cao, X., Li, Z., & Li, S. (2021). Enhanced Beetle Antennae Search with Zeroing Neural Network for online solution of constrained optimization. Neurocomputing, 447, 294-306.](https://www.sciencedirect.com/science/article/abs/pii/S0925231221003957)
+3. [Khan, A. T., Li, S., & Cao, X. (2021). Control framework for cooperative robots in smart home using bio-inspired neural network. Measurement, 167, 108253.](https://www.sciencedirect.com/science/article/pii/S0263224120307922?casa_token=NeHLkrfKm7EAAAAA:972ZRPiwj10KPGovRSwzQKYqkLz9j_LyzNaqW7WRGdh9MIApiea3PkaqkPqXkU2ZbppUQYAJvw)
+4. [Khan, A. T., & Li, S. (2021). Human guided cooperative robotic agents in smart home using beetle antennae search. Science China Information Sciences.](https://www.sciengine.com/doi/10.1007/s11432-020-3073-5)
 
